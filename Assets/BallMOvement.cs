@@ -6,7 +6,7 @@ public class BallMOvement : MonoBehaviour
 {
     Rigidbody body;
     public Vector2 input;
-    [SerializeField] float speed = 1000;
+    [SerializeField] float speed = 500;
 
     // Start is called before the first frame update
     void Start()

@@ -2065,6 +2065,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Sphere
       objectReference: {fileID: 0}
+    - target: {fileID: 8259024658212671540, guid: c632624ad98826b46a8adce3fb8cab67, type: 3}
+      propertyPath: m_TagString
+      value: Ball
+      objectReference: {fileID: 0}
     - target: {fileID: 8259024658212671562, guid: c632624ad98826b46a8adce3fb8cab67, type: 3}
       propertyPath: m_RootOrder
       value: 4
